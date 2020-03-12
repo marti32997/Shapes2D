@@ -1,0 +1,12 @@
+[submodule "Shapes2D-CPP"]
+	path = Shapes2D-CPP
+	url = https://github.com/marti32997/Shapes2D-CPP.git
+[submodule "Shapes2D-Python"]
+	path = Shapes2D-Python
+	url = https://github.com/marti32997/Shapes2D-Python.git
+[submodule "Shapes2D-Javascript"]
+	path = Shapes2D-Javascript
+	url = https://github.com/marti32997/Shapes2D-Javascript.git
+[submodule "Shapes2D-Java"]
+	path = Shapes2D-Java
+	url = https://github.com/marti32997/Shapes2D-Java.git
